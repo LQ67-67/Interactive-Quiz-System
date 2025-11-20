@@ -24,7 +24,7 @@ We will use the **Output** pins (OUT) on the Explorer HAT Pro.
 
 **Visual Reference:**
 
-![image.png](attachment:9ddfb279-0100-4383-a5ac-9fab1ebfd31b:image.png)
+https://cdn.learn.pimoroni.com/article/explorer-hat-pro-pin-entry-system/assets/explorer_pin_entry.png?width=1024
 
 ### The Code (Python + Flask)
 
